@@ -18,9 +18,11 @@ build/
 Thumbs.db
 
 # Project-specific ignores
+elasticity/elasticity.ipynb
+piezo/piezo.ipynb
 
 # Jupyter Notebook
-.ipynb
+*.ipynb
 .ipynb_checkpoints
 
 # pytest
