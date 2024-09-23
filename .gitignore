@@ -20,7 +20,7 @@ Thumbs.db
 # Project-specific ignores
 
 # Jupyter Notebook
-*.ipynb
+.ipynb
 .ipynb_checkpoints
 
 # pytest
