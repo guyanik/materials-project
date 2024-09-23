@@ -18,8 +18,6 @@ build/
 Thumbs.db
 
 # Project-specific ignores
-elasticity/*.ipynb
-piezo/*.ipynb
 
 # Jupyter Notebook
 *ipynb
