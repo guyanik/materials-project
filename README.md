@@ -65,7 +65,6 @@ Si3O6 is a form of silicon oxide with a complex crystal structure.
 
 ![Si3O6 Structure 1](images/Si3O6-1.png)
 ![Si3O6 Structure 2](images/Si3O6-2.png)
-![Si3O6 Structure 3](images/Si3O6-3.png)
 
 These images show various aspects of the Si3O6 structure, including its unit cell and electronic properties.
 
